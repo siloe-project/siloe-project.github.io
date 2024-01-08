@@ -1,4 +1,7 @@
-site_name: The Search for Intelligent Life on Earth
+site_name: The SILOE Project
+site_url: https://siloe-project.com
+site_description: |
+  Scientists have pointed some of the most advanced technology towards the heavens in the search for intelligent life on other planets.  So far, however, there is little evidence of intelligence even here on Earth.  This website serves as a chronicle of the brave men and women who hope to someday find such intelligence.  The search continues...
 repo_url: https://github.com/siloe-project/siloe-project.github.io
 edit_uri: edit/main/docs/
 theme:
@@ -25,6 +28,7 @@ markdown_extensions:
 
 plugins:
   - glightbox # allow resize images, see https://squidfunk.github.io/mkdocs-material/reference/images/
+  - rss
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
