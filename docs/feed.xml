@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Search for Intelligent Life on Earth</title>
+    <link>https://siloe-project.com/</link>
+    <language>en-us</language>
+    <copyright>&#169; 2024 Daniel M. Aukes</copyright>
+    <itunes:author>Daniel M. Aukes</itunes:author>
+    <description>
+      We discuss the existential question of whether there is intelligent life out there, and if so, are they worth talking to?
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image
+      href=""
+    />
+    <itunes:category text="Arts">
+    <itunes:category text="Design" />
+    </itunes:category>
+
+    <itunes:category text="Business">
+    <itunes:category text="Non-Profit" />
+    </itunes:category>
+
+    <itunes:category text="Education">
+    <itunes:category text="How To" />
+    <itunes:category text="Self-Improvement" />
+    <itunes:category text="Courses" />
+    </itunes:category>
+
+    <itunes:category text="Tecnology" />
+
+    <itunes:explicit>false</itunes:explicit>
+
+    <itunes:owner>
+    <itunes:name>Daniel M. Aukes</itunes:name>
+    <itunes:email>danaukes@danaukes.com</itunes:email>
+    </itunes:owner>
+
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <title>S01 Ep01 -- The Search Begins</title>
+      <description>
+        Welcome to the show.
+      </description>
+      <enclosure
+        length="" 
+        type="audio/x-m4a" 
+        url=""
+      />
+      <guid></guid>
+      <pubDate></pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <!-- <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>S02 EP03 Bouldering Around Boulder</title>
+      <description>
+        We explore fun walks to climbing areas about the beautiful Colorado city of Boulder.
+      </description>
+      <itunes:image
+        href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg"
+      />
+      <link>href="http://example.com/podcasts/everything/</link>
+      <enclosure 
+        length="5650889" 
+        type="video/mp4" 
+        url="http://example.com/podcasts/boulder.mp4"
+      />
+      <guid>BE486CAA-B3D5-4FB0-8298-EFEBE71C5982</guid>
+      <pubDate>Tue, 30 Apr 2019 13:00:00 EST</pubDate>
+      <itunes:duration>3627</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item> -->
+  </channel>
+</rss>

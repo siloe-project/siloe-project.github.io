@@ -1,5 +1,5 @@
 ---
-title: "SILOE.: The Search for Intelligent Life on Earth"
+title: "SILOE: The Search for Intelligent Life on Earth"
 ---
 
 Scientists have pointed some of the most advanced technology towards the heavens in the search for intelligent life on other planets.  So far, however, there is little evidence of intelligence, _even here on Earth_.  
