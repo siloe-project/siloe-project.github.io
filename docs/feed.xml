@@ -46,8 +46,9 @@
         Welcome to the show.
       </description>
       <link href="https://siloe-project.com/episodes/01/" />
+        <itunes:duration>00:00:03</itunes:duration>
       <enclosure
-        length="3568" 
+        length="933" 
         type="audio/x-mp3" 
         url="https://siloe-project.com/audio/test1.mp3"
       />
