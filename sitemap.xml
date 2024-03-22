@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://siloe-project.com/episodes/</loc>
+         <lastmod>2024-03-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://siloe-project.com/episodes/01/</loc>
          <lastmod>2024-03-22</lastmod>
          <changefreq>daily</changefreq>
