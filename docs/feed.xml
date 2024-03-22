@@ -10,15 +10,13 @@
       We discuss the existential question of whether there is intelligent life out there, and if so, are they worth talking to?
     </description>
     <itunes:type>serial</itunes:type>
-    <itunes:image
-      href=""
-    />
+    <itunes:image href="https://siloe-project.com/static/siloe-logo.png"/>
     <itunes:category text="Arts">
     <itunes:category text="Design" />
     </itunes:category>
 
     <itunes:category text="Business">
-    <itunes:category text="Non-Profit" />
+      <itunes:category text="Non-Profit" />
     </itunes:category>
 
     <itunes:category text="Education">
@@ -27,7 +25,7 @@
     <itunes:category text="Courses" />
     </itunes:category>
 
-    <itunes:category text="Tecnology" />
+    <itunes:category text="Technology" />
 
     <itunes:explicit>false</itunes:explicit>
 
@@ -45,36 +43,14 @@
         Welcome to the show.
       </description>
       <enclosure
-        length="" 
-        type="audio/x-m4a" 
-        url=""
+        length="3568" 
+        type="audio/x-mp3" 
+        url="https://siloe-project.com/audio/test1.mp3"
       />
       <guid></guid>
       <pubDate></pubDate>
       <itunes:duration></itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <!-- <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>2</itunes:season>
-      <title>S02 EP03 Bouldering Around Boulder</title>
-      <description>
-        We explore fun walks to climbing areas about the beautiful Colorado city of Boulder.
-      </description>
-      <itunes:image
-        href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg"
-      />
-      <link>href="http://example.com/podcasts/everything/</link>
-      <enclosure 
-        length="5650889" 
-        type="video/mp4" 
-        url="http://example.com/podcasts/boulder.mp4"
-      />
-      <guid>BE486CAA-B3D5-4FB0-8298-EFEBE71C5982</guid>
-      <pubDate>Tue, 30 Apr 2019 13:00:00 EST</pubDate>
-      <itunes:duration>3627</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item> -->
   </channel>
 </rss>
