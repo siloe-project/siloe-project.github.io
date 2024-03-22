@@ -37,10 +37,10 @@
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
-      <iTunes:author> Daniel M. Aukes     </iTunes:author>
-           <iTunes:summary> This is a test summary           </iTunes:summary>
+      <itunes:author> Daniel M. Aukes     </itunes:author>
+           <itunes:summary> This is a test summary           </itunes:summary>
       <itunes:episode>1</itunes:episode>
-          <itunes:image href="https://siloe-project.com/static/siloe-logo.png"/>
+          <itunes:image href="https://siloe-project.com/static/siloe-logo.png" />
       <title>S01 Ep01 -- The Search Begins</title>
       <description>
         Welcome to the show.
@@ -54,7 +54,7 @@
       />
       <guid></guid>
       <pubDate></pubDate>
-      <itunes:duration></itunes:duration>
+
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
