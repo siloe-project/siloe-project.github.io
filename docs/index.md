@@ -2,7 +2,7 @@
 title: "SILOE: The Search for Intelligent Life on Earth"
 ---
 
-![alt text](/static/siloe-logo.png)
+![alt text](/static/siloe-logo.jpg)
 
 Scientists have pointed some of the most advanced technology towards the heavens in the search for intelligent life on other planets.  So far, however, there is little evidence of intelligence, _even here on Earth_.  
 
@@ -13,3 +13,7 @@ The search continues...
 ## Episode 1
 
 [Episode1](/audio/test1.mp3)
+
+## Subscribe
+
+[Subscribe](/feed.xml)

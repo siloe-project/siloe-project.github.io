@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
+    <atom:link href="https://siloe-project.com/feed.xml" rel="self" type="application/rss+xml" />
     <title>The Search for Intelligent Life on Earth</title>
     <link>https://siloe-project.com/</link>
     <language>en-us</language>
@@ -9,10 +12,10 @@
     <description>
       We discuss the existential question of whether there is intelligent life out there, and if so, are they worth talking to?
     </description>
-    <itunes:type>serial</itunes:type>
-    <itunes:image href="https://siloe-project.com/static/siloe-logo.png"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://siloe-project.com/static/siloe-logo.jpg"/>
     <itunes:category text="Arts">
-    <itunes:category text="Design" />
+      <itunes:category text="Design" />
     </itunes:category>
 
     <itunes:category text="Business">
@@ -20,9 +23,9 @@
     </itunes:category>
 
     <itunes:category text="Education">
-    <itunes:category text="How To" />
-    <itunes:category text="Self-Improvement" />
-    <itunes:category text="Courses" />
+      <itunes:category text="How To" />
+      <itunes:category text="Self-Improvement" />
+      <itunes:category text="Courses" />
     </itunes:category>
 
     <itunes:category text="Technology" />
@@ -30,30 +33,23 @@
     <itunes:explicit>false</itunes:explicit>
 
     <itunes:owner>
-    <itunes:name>Daniel M. Aukes</itunes:name>
-    <itunes:email>danaukes@danaukes.com</itunes:email>
+      <itunes:name>Daniel M. Aukes</itunes:name>
+      <itunes:email>danaukes@danaukes.com</itunes:email>
     </itunes:owner>
 
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author> Daniel M. Aukes     </itunes:author>
-           <itunes:summary> This is a test summary           </itunes:summary>
-      <itunes:episode>1</itunes:episode>
-          <itunes:image href="https://siloe-project.com/static/siloe-logo.png" />
+      <itunes:image href="https://siloe-project.com/static/siloe-logo.jpg" />
       <title>S01 Ep01 -- The Search Begins</title>
-      <description>
-        Welcome to the show.
-      </description>
+      <description>Welcome to the show.</description>
       <link>https://siloe-project.com/episodes/01/</link>
-        <itunes:duration>00:00:03</itunes:duration>
-      <enclosure
-        length="933" 
-        type="audio/x-mp3" 
-        url="https://siloe-project.com/audio/test1.mp3"
-      />
+      <itunes:duration>03</itunes:duration>
+      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/test1.mp3" />
       <guid></guid>
-      <pubDate></pubDate>
+      <pubDate>Saturday, 23 Mar 2024 12:34:00 +0100</pubDate>
 
       <itunes:explicit>false</itunes:explicit>
     </item>
