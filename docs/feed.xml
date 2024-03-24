@@ -16,7 +16,7 @@
       We discuss the existential question of whether there is intelligent life out there, and if so, are they worth talking to?
     </description>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://siloe-project.com/static/siloe-logo.jpg"/>
+    <itunes:image href="https://siloe-project.com/static/siloe-logo-podcast.jpg"/>
     <itunes:category text="Arts">
       <itunes:category text="Design" />
     </itunes:category>
@@ -45,7 +45,7 @@
       <itunes:episode>0</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author> Daniel M. Aukes     </itunes:author>
-      <itunes:image href="https://siloe-project.com/static/siloe-logo.jpg" />
+      <itunes:image href="https://siloe-project.com/static/siloe-logo-podcast.jpg" />
       <title>Podcast Trailer</title>
       <description>The search for intelligent life on earth is a new podcast coming soon.  We will discuss code, technology, robots, and all the things we wish we had done right the first time.</description>
       <link>https://siloe-project.com/episodes/00/</link>
@@ -63,7 +63,7 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author> Daniel M. Aukes     </itunes:author>
-      <itunes:image href="https://siloe-project.com/static/siloe-logo.jpg" />
+      <itunes:image href="https://siloe-project.com/static/siloe-logo-podcast.jpg" />
       <title>S01 Ep01 -- The Search Begins</title>
       <description>Welcome to the show.</description>
       <link>https://siloe-project.com/episodes/01/</link>
