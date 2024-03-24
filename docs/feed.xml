@@ -51,7 +51,7 @@
       <itunes:summary>The search for intelligent life on earth is a new podcast coming soon.  We will discuss code, technology, robots, and all the things we wish we had done right the first time.</itunes:summary>
       <link>https://siloe-project.com/episodes/00/</link>
       <itunes:duration>03</itunes:duration>
-      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/test1.mp3">
+      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/episode0.mp3">
         <guid isPermalink="True">https://siloe-project.com/episodes/00/</guid>
       </enclosure>
       <guid></guid>
@@ -70,7 +70,7 @@
       <itunes:summary>Welcome to the show.</itunes:summary>
       <link>https://siloe-project.com/episodes/01/</link>
       <itunes:duration>03</itunes:duration>
-      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/test1.mp3">
+      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/episode1.mp3">
         <guid isPermalink="True">https://siloe-project.com/episodes/01/</guid>
       </enclosure>
       <guid></guid>
