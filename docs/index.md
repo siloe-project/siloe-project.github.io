@@ -10,9 +10,13 @@ This website serves as a chronicle of the brave men and women who, every day, de
 
 The search continues...
 
+## Podcast Trailer
+
+[Link](/episodes/00/)
+
 ## Episode 1
 
-[Episode1](/audio/test1.mp3)
+[Link](/episodes/01/)
 
 ## Subscribe
 

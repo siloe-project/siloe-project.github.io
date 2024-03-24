@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:podcast="https://podcastindex.org/namespace/1.0"
-xmlns:atom="http://www.w3.org/2005/Atom"
-xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://siloe-project.com/feed.xml" rel="self" type="application/rss+xml" />
     <title>The Search for Intelligent Life on Earth</title>
@@ -41,6 +42,24 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>0</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author> Daniel M. Aukes     </itunes:author>
+      <itunes:image href="https://siloe-project.com/static/siloe-logo.jpg" />
+      <title>Podcast Trailer</title>
+      <description>The search for intelligent life on earth is a new podcast coming soon.  We will discuss code, technology, robots, and all the things we wish we had done right the first time.</description>
+      <link>https://siloe-project.com/episodes/00/</link>
+      <itunes:duration>03</itunes:duration>
+      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/test1.mp3">
+        <guid isPermalink="True">https://siloe-project.com/episodes/00/</guid>
+      </enclosure>
+      <guid></guid>
+      <pubDate>Saturday, 23 Mar 2024 11:34:00 +0100</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author> Daniel M. Aukes     </itunes:author>
@@ -49,11 +68,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <description>Welcome to the show.</description>
       <link>https://siloe-project.com/episodes/01/</link>
       <itunes:duration>03</itunes:duration>
-      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/test1.mp3" />
+      <enclosure length="94993" type="audio/x-mp3" url="https://siloe-project.com/audio/test1.mp3">
+        <guid isPermalink="True">https://siloe-project.com/episodes/01/</guid>
+      </enclosure>
       <guid></guid>
       <pubDate>Saturday, 23 Mar 2024 12:34:00 +0100</pubDate>
-
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   </channel>
 </rss>
